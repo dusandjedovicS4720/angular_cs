@@ -1,5 +1,11 @@
 # Wsearch
 
+| Child-Parent, Parent-Child komunikacija |, 
+| Property binding, Interpolacija, Event binding |, 
+| Dependency Injection, Angular instanciranje, konstruktori, @Injectable direktiva |, 
+| XSS zastita uz Escape Chars |, 
+| Rxjs |
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
