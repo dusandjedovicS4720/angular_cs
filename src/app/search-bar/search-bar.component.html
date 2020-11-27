@@ -1,0 +1,7 @@
+<!-- Svaki put kada se unese neko slovo u input okida se Angular (input) event -->
+<!-- <input type="text" (input)="onInput($event.target.value)"> -->
+<!-- Skracena sintaksa od koda na liniji iznad -->
+<!-- Svaki put kada input wrapp-ujem u form element, pritisak tastera enter ce trigerovati submit event na wrapper formi -->
+<form action="" (submit)="onFormSubmit($event)">
+  <input type="text" (input)="term = $event.target.value" />
+</form>
